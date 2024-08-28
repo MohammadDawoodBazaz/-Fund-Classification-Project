@@ -1,3 +1,3 @@
-# -Fund-Classification-Project
+# Fund-Classification-Project
 This Python script is for a fund classification project, focusing on analyzing and categorizing financial funds based on performance data.
 It begins by importing essential libraries for data manipulation and machine learning, including pandas, numpy, and sklearn. The script loads data from an Excel file, processes it, and applies various machine learning models such as logistic regression, random forests, and support vector machines. Model evaluation is performed using metrics like accuracy, F1 score, and confusion matrices. Additionally, it includes data visualization using matplotlib to illustrate key findings and model performance.
